@@ -5,17 +5,7 @@
 
 This project aims to predict house prices in Bangalore using a machine learning model. The model takes into account various features such as location, total square footage, number of bathrooms, and number of bedrooms (BHK). The project includes a web application built using Streamlit to provide an interactive user interface for making predictions.
 
->Some files are not available on GitHub due to the large file size. you can get it [HERE](https://huggingface.co/sujoy0011/Bengaluru_House_Price_Prediction/tree/main)
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Results](#results)
+>Some files are not available on GitHub due to the large file size.
 
 ## Project Structure
 
