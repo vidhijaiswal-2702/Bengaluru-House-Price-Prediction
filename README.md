@@ -16,38 +16,6 @@ The project consists of the following files and directories:
 - `random_forest_house_price_model.pkl`: Serialized machine learning model. `NOT AVAILABLE ON GITHUB DUE TO THE LARGE FILE SIZE.`
 - `dataset.pkl`: Serialized dataset used for training the model.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/BangaloreHousePricePrediction.git
-    cd BangaloreHousePricePrediction
-    ```
-
-2. Create a virtual environment and activate it:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Ensure you have Streamlit installed:
-    ```bash
-    pip install streamlit
-    ```
-
-## Usage
-
-To run the web application, execute the following command:
-```bash
-streamlit run app.py
-```
-
-This will start the Streamlit server, and you can access the web application in your browser at `http://localhost:8501`.
 
 ## Dataset
 
